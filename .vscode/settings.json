@@ -1,3 +1,12 @@
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system"
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "editor.inlineSuggest.enabled": true,
+    "editor.suggestSelection": "first",
+    "github.copilot.enable": {
+        "python": true
+    },
+    "github.copilot.inlineSuggest.enable": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.useLibraryCodeForTypes": true
 }
